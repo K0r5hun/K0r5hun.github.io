@@ -1,9 +1,9 @@
-<a id="legendAdAnchor" onclick="ga('send', 'event', 'Ad', 'click', 'euWebsite');" target="_blank" href="https://jimboy3100.github.io/developers/index.html">
+<a id="legendAdAnchor" onclick="ga('send', 'event', 'Ad', 'click', 'euWebsite');" target="_blank" href="https://K0r5hun.github.io/developers/index.html">
 
 </a>
 
 <script>
-  var imgUrl = "https://jimboy3100.github.io/banners/iconLMdevs.png";
+  var imgUrl = "https://K0r5hun.github.io/banners/iconLMdevs.png";
   var $img = $('<img id="legendAdImg" height="70px" src="'+ imgUrl +'" style="width: 100%">');
 
   $img.on('load', function() { ga('send', 'event', 'Ad', 'load', 'euWebsite'); });
